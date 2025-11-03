@@ -24,7 +24,7 @@
 
 #### 💻 Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,tailwind,bootstrap,laragon" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,tailwind,bootstrap,laragon,"/>
 </p>
 
 #### 📱 Mobile Development
@@ -49,11 +49,12 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="mailto:itsubaedillah@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+<a href="https://github.com/itsubaedillah"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/ubaedillah-r"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://github.com/itsubaedillah"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=itsubaedillah@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
   <a href="https://instagram.com/itsubaedillah"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 </p>
+
 
 ---
 
